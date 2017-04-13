@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <h5 class='Titles'>All-Around Calculator</h5>
+    <a href='/'><h5 class='Titles' >Skill List</h5></a>
+    <a href='/sscalculator'><h5 class='Titles' >Start Score Calculator</h5></a>
+<title>All-Around Calculator</title>
+
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="http://cdn.datatables.net/plug-ins/1.10.13/api/fnFilterClear.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src='http://d33wubrfki0l68.cloudfront.net/bundles/675a589166b4538e5feb44eb138883dd68aab152.js'></script>
+    <style>
+        .Titles {
+            display: inline;
+        }
+
+        .number {
+            width: 130px;
+            padding: 8px 15px;
+            background: #EAEAEA;
+            border: 0px solid #dbdbdb;
+        }
+        .text {
+              font-weight: bold;
+
+            width: 140px;
+            padding: 8px 15px;
+            background: #EAEAEA;
+            border: 0px solid #dbdbdb;
+        }
+
+        .filling {}
+    </style>
+
+    <link rel='stylesheet' href='http://d33wubrfki0l68.cloudfront.net/bundles/7fce9116363ffb92f6e3c141fee3e54e995ec643.css' />
+
+
+
+</head>
+
+<body>
+    <table id="example" class="display" cellspacing="0" width="100%" border="0" cellpadding="0">
+        <thead>
+            <tr>
+                <th>Gymnast</th>
+                <th>Floor</th>
+                <th>Pommel</th>
+                <th>Rings</th>
+                <th>Vault</th>
+                <th>PBars</th>
+                <th>HBar</th>
+                <th>All Around</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="first">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+
+                <td class="filling"><input id="oneone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="onetwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="onethree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="onefour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="onefive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="onesix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="oneAll" class="all"></td>
+            </tr>
+            <tr id="second">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+                <td class="filling"><input id="twoone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="twotwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="twothree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="twofour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="twofive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="twosix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="twoAll" class="all"></td>
+            </tr>
+            <tr id="third">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+                <td class="filling"><input id="threeone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="threetwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="threethree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="threefour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="threefive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="threesix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="threeAll" class="all"></td>
+            </tr>
+            <tr id="fourth">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+                <td class="filling"><input id="fourone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fourtwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fourthree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fourfour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fourfive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="foursix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="fourAll" class="all"></td>
+            </tr>
+            <tr id="fifth" class="all">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+                <td class="filling"><input id="fiveone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fivetwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fivethree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fivefour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fivefive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="fivesix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="fiveAll"></td>
+            </tr>
+            <tr id="sixth">
+                <td class="filling"><input class="text" placeholder="Name..." type="text"></td>
+                <td class="filling"><input id="sixone" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="sixtwo" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="sixthree" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="sixfour" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="sixfive" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td class="filling"><input id="sixsix" step="any" min = "0" placeholder="Event Score..." class="number" type="number" onchange="add()"></td>
+                <td id="sixAll" class="all"></td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+
+    <script>
+        add();
+
+        function add() {
+
+            var oneone = parseFloat(document.getElementById("oneone").value);
+            var onetwo = parseFloat(document.getElementById("onetwo").value);
+            var onethree = parseFloat(document.getElementById("onethree").value);
+            var onefour = parseFloat(document.getElementById("onefour").value);
+            var onefive = parseFloat(document.getElementById("onefive").value);
+            var onesix = parseFloat(document.getElementById("onesix").value);
+            oneone = oneone || 0;
+            onetwo = onetwo || 0;
+            onethree = onethree || 0;
+            onefour = onefour || 0;
+            onefive = onefive || 0;
+            onesix = onesix || 0;
+            document.getElementById("oneAll").innerHTML = round(oneone + onetwo + onethree + onefour + onefive + onesix, 2);
+            var twoone = parseFloat(document.getElementById("twoone").value);
+            var twotwo = parseFloat(document.getElementById("twotwo").value);
+            var twothree = parseFloat(document.getElementById("twothree").value);
+            var twofour = parseFloat(document.getElementById("twofour").value);
+            var twofive = parseFloat(document.getElementById("twofive").value);
+            var twosix = parseFloat(document.getElementById("twosix").value);
+            twoone = twoone || 0;
+            twotwo = twotwo || 0;
+            twothree = twothree || 0;
+            twofour = twofour || 0;
+            twofive = twofive || 0;
+            twosix = twosix || 0;
+            document.getElementById("twoAll").innerHTML = round(twoone + twotwo + twothree + twofour + twofive + twosix, 2);
+            var threeone = parseFloat(document.getElementById("threeone").value);
+            var threetwo = parseFloat(document.getElementById("threetwo").value);
+            var threethree = parseFloat(document.getElementById("threethree").value);
+            var threefour = parseFloat(document.getElementById("threefour").value);
+            var threefive = parseFloat(document.getElementById("threefive").value);
+            var threesix = parseFloat(document.getElementById("threesix").value);
+
+            threeone = threeone || 0;
+            threetwo = threetwo || 0;
+            threethree = threethree || 0;
+            threefour = threefour || 0;
+            threefive = threefive || 0;
+            threesix = threesix || 0;
+            document.getElementById("threeAll").innerHTML = round(threeone + threetwo + threethree + threefour + threefive + threesix, 2);
+
+            var fourone = parseFloat(document.getElementById("fourone").value);
+            var fourtwo = parseFloat(document.getElementById("fourtwo").value);
+            var fourthree = parseFloat(document.getElementById("fourthree").value);
+            var fourfour = parseFloat(document.getElementById("fourfour").value);
+            var fourfive = parseFloat(document.getElementById("fourfive").value);
+            var foursix = parseFloat(document.getElementById("foursix").value);
+            fourone = fourone || 0;
+            fourtwo = fourtwo || 0;
+            fourthree = fourthree || 0;
+            fourfour = fourfour || 0;
+            fourfive = fourfive || 0;
+            foursix = foursix || 0;
+            document.getElementById("fourAll").innerHTML = round(fourone + fourtwo + fourthree + fourfour + fourfive + foursix, 2);
+
+            var fiveone = parseFloat(document.getElementById("fiveone").value);
+            var fivetwo = parseFloat(document.getElementById("fivetwo").value);
+            var fivethree = parseFloat(document.getElementById("fivethree").value);
+            var fivefour = parseFloat(document.getElementById("fivefour").value);
+            var fivefive = parseFloat(document.getElementById("fivefive").value);
+            var fivesix = parseFloat(document.getElementById("fivesix").value);
+            fiveone = fiveone || 0;
+            fivetwo = fivetwo || 0;
+            fivethree = fivethree || 0;
+            fivefour = fivefour || 0;
+            fivefive = fivefive || 0;
+            fivesix = fivesix || 0;
+            document.getElementById("fiveAll").innerHTML = round(fiveone + fivetwo + fivethree + fivefour + fivefive + fivesix, 2);
+
+            var sixone = parseFloat(document.getElementById("sixone").value);
+            var sixtwo = parseFloat(document.getElementById("sixtwo").value);
+            var sixthree = parseFloat(document.getElementById("sixthree").value);
+            var sixfour = parseFloat(document.getElementById("sixfour").value);
+            var sixfive = parseFloat(document.getElementById("sixfive").value);
+            var sixsix = parseFloat(document.getElementById("sixsix").value);
+            sixone = sixone || 0;
+            sixtwo = sixtwo || 0;
+            sixthree = sixthree || 0;
+            sixfour = sixfour || 0;
+            sixfive = sixfive || 0;
+            sixsix = sixsix || 0;
+            document.getElementById("sixAll").innerHTML = round(sixone + sixtwo + sixthree + sixfour + sixfive + sixsix, 2);
+
+
+
+
+
+
+
+
+
+        }
+
+
+        var table = $('#example').DataTable({
+            responsive: true,
+            "dom": '<"top"><"bottom"><"clear">',
+
+
+
+
+            "language": {
+                "zeroRecords": "Sorry, no programs to display", //changes words used
+                "lengthMenu": "Show _MENU_ Skills Per Page", //changes words used
+                "info": "&raquo; Showing _START_ to _END_ of _TOTAL_ Skills", //changes words used
+                "search": "", //changes words used originally - Search programs:
+                "searchPlaceholder": "Search Skills",
+                "infoFiltered": "(filtered from _MAX_ total Skills)"
+            }
+
+        });
+
+        function round(value, decimals) {
+            return Number(Math.round(value + 'e' + decimals) + 'e-' + decimals);
+        }
+    </script>
+
+
+
+</body>
+
+</html>

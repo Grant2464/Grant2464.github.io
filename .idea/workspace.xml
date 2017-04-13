@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="931c043a-7dd4-425b-b705-83137996f03b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="Datatables.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datatables.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatatablesReal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DatatablesReal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220995">
+              <caret line="14735" column="45" lean-forward="false" selection-start-line="14735" selection-start-column="45" selection-end-line="14735" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Datatable CSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datatable CSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3030">
+              <caret line="7486" column="1" lean-forward="false" selection-start-line="7486" selection-start-column="1" selection-end-line="7486" selection-end-column="1" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>length</find>
+      <find>left</find>
+      <find>head</find>
+      <find>background</find>
+      <find>th</find>
+      <find>25,</find>
+      <find>th,</find>
+      <find>border</find>
+      <find>&amp;nbsp;</find>
+      <find>loading</find>
+      <find>previous</find>
+      <find>width</find>
+      <find>font</find>
+      <find>right</find>
+      <find>000000</find>
+      <find>table</find>
+      <find>com</find>
+      <find>number</find>
+      <find>li ni</find>
+      <find>width250px;height:234px;</find>
+      <find>(Ri Jong Song)</find>
+      <find>(Morandi)</find>
+      <find>style=&quot;width:128px;height:128px;&quot;</find>
+      <find>ring</find>
+      <find>rings</find>
+      <find>(</find>
+      <find>img</find>
+      <find>img src=&quot;</find>
+      <find>thead</find>
+      <find>pb</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;td&gt;</replace>
+      <replace>width:250px;height:234px;</replace>
+      <replace>style=&quot;width:250px;height:234px;&quot;</replace>
+      <replace>img src=&quot;images/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JV2.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Client-side-HTML-Table-Pagination-Plugin-with-jQuery-Paging.zip/Client-side-HTML-Table-Pagination-Plugin-with-jQuery-Paging/paging.js" />
+        <option value="$PROJECT_DIR$/HTML.js" />
+        <option value="$PROJECT_DIR$/JV.js" />
+        <option value="$PROJECT_DIR$/CSS.css" />
+        <option value="$PROJECT_DIR$/JV3.js" />
+        <option value="$PROJECT_DIR$/JV4.jv.js" />
+        <option value="$PROJECT_DIR$/JV4.js" />
+        <option value="$PROJECT_DIR$/JV5.js" />
+        <option value="$PROJECT_DIR$/JV6.js" />
+        <option value="$PROJECT_DIR$/HTML2.html" />
+        <option value="$PROJECT_DIR$/HTML.html" />
+        <option value="$PROJECT_DIR$/DOG/LIST HTML.html" />
+        <option value="$PROJECT_DIR$/DOG/LIST CSS.css" />
+        <option value="$PROJECT_DIR$/DOG/LIST JS.js" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/TXT" />
+        <option value="$PROJECT_DIR$/optc.html" />
+        <option value="$PROJECT_DIR$/Alt Search.js" />
+        <option value="$PROJECT_DIR$/DatatablesReal.js" />
+        <option value="$PROJECT_DIR$/index3.html" />
+        <option value="$USER_HOME$/Documents/Start Values for Website All.csv" />
+        <option value="$PROJECT_DIR$/indexCopy.html" />
+        <option value="$PROJECT_DIR$/a" />
+        <option value="$PROJECT_DIR$/sdf" />
+        <option value="$PROJECT_DIR$/DatatablesResponsive.js" />
+        <option value="$PROJECT_DIR$/Datatable CSS.css" />
+        <option value="$PROJECT_DIR$/images/qw.css" />
+        <option value="$PROJECT_DIR$/Datatables2.js" />
+        <option value="$PROJECT_DIR$/Datatables11.js" />
+        <option value="$PROJECT_DIR$/qw.css" />
+        <option value="$PROJECT_DIR$/Test.js" />
+        <option value="$PROJECT_DIR$/Test2.js" />
+        <option value="$PROJECT_DIR$/sd.js" />
+        <option value="$PROJECT_DIR$/Sf.html" />
+        <option value="$PROJECT_DIR$/sd.html" />
+        <option value="$PROJECT_DIR$/Datatables.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Test.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript&#10;HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Grant Pauker\PhpstormProjects\untitled2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="931c043a-7dd4-425b-b705-83137996f03b" name="Default" comment="" />
+      <created>1486172665494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486172665494</updated>
+      <workItem from="1486172666571" duration="10000" />
+      <workItem from="1486172688014" duration="3846000" />
+      <workItem from="1486181531972" duration="4214000" />
+      <workItem from="1486255026207" duration="1200000" />
+      <workItem from="1486261947776" duration="1124000" />
+      <workItem from="1486266749171" duration="3504000" />
+      <workItem from="1486330846028" duration="5187000" />
+      <workItem from="1486345280834" duration="4826000" />
+      <workItem from="1486352581735" duration="2227000" />
+      <workItem from="1486355596637" duration="1898000" />
+      <workItem from="1486508158431" duration="732000" />
+      <workItem from="1486508997961" duration="208000" />
+      <workItem from="1486512586663" duration="7168000" />
+      <workItem from="1486871393765" duration="1473000" />
+      <workItem from="1486873468612" duration="350000" />
+      <workItem from="1486963909785" duration="678000" />
+      <workItem from="1487126288865" duration="860000" />
+      <workItem from="1487201504985" duration="63000" />
+      <workItem from="1487570802584" duration="587000" />
+      <workItem from="1487621696455" duration="465000" />
+      <workItem from="1487632543537" duration="827000" />
+      <workItem from="1488050043739" duration="467000" />
+      <workItem from="1488054207121" duration="331000" />
+      <workItem from="1488067632654" duration="242000" />
+      <workItem from="1488073765027" duration="2317000" />
+      <workItem from="1488155838458" duration="4000" />
+      <workItem from="1488162313591" duration="1736000" />
+      <workItem from="1488173712329" duration="4879000" />
+      <workItem from="1488322680033" duration="4039000" />
+      <workItem from="1488408931889" duration="284000" />
+      <workItem from="1488409244062" duration="208000" />
+      <workItem from="1488409581175" duration="84000" />
+      <workItem from="1488409958905" duration="108000" />
+      <workItem from="1488505765571" duration="107000" />
+      <workItem from="1488506575912" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56299000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1276" height="777" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25370675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SortTable.js" />
+    <entry file="file://$PROJECT_DIR$/HTML2.html" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.1.1.js" />
+    <entry file="file://$PROJECT_DIR$/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/Pagination.js" />
+    <entry file="file://$PROJECT_DIR$/LightTableFilter.js" />
+    <entry file="file://$PROJECT_DIR$/SortTable.js" />
+    <entry file="file://$PROJECT_DIR$/HTML.html" />
+    <entry file="file://$PROJECT_DIR$/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/Pagination.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Client-side-HTML-Table-Pagination-Plugin-with-jQuery-Paging.zip/Client-side-HTML-Table-Pagination-Plugin-with-jQuery-Paging/paging.js" />
+    <entry file="file://$PROJECT_DIR$/JV4.js" />
+    <entry file="file://$PROJECT_DIR$/JV4.js" />
+    <entry file="file://$PROJECT_DIR$/JV6.js" />
+    <entry file="file://$PROJECT_DIR$/JV5.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.1.1.js" />
+    <entry file="file://$PROJECT_DIR$/HTML.html" />
+    <entry file="file://$PROJECT_DIR$/SortTable.js" />
+    <entry file="file://$PROJECT_DIR$/HTML2.html" />
+    <entry file="file://$PROJECT_DIR$/DOG/LIST CSS.css" />
+    <entry file="file://$PROJECT_DIR$/DOG/LIST JS.js" />
+    <entry file="file://$PROJECT_DIR$/DOG/LIST HTML.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="217" column="16" lean-forward="false" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/CVS.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="59" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="838" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TXT" />
+    <entry file="file://$PROJECT_DIR$/optc.html" />
+    <entry file="file://$PROJECT_DIR$/LightTableFilter.js" />
+    <entry file="file://$USER_HOME$/Documents/Start Values for Website All.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="838" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexCopy.html" />
+    <entry file="file://$PROJECT_DIR$/sdf" />
+    <entry file="file://$PROJECT_DIR$/a" />
+    <entry file="file://$PROJECT_DIR$/Alt Search.js" />
+    <entry file="file://$PROJECT_DIR$/Pagination.js" />
+    <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://$PROJECT_DIR$/index4.html" />
+    <entry file="file://$PROJECT_DIR$/index3.html" />
+    <entry file="file://$PROJECT_DIR$/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/Start Values for Website All - All.csv" />
+    <entry file="file://$PROJECT_DIR$/DatatablesResponsive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18795">
+          <caret line="1255" column="0" lean-forward="false" selection-start-line="1255" selection-start-column="0" selection-end-line="1255" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatatablesReal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220995">
+          <caret line="14735" column="45" lean-forward="false" selection-start-line="14735" selection-start-column="45" selection-end-line="14735" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.js" />
+    <entry file="file://$PROJECT_DIR$/Test2.js" />
+    <entry file="file://$PROJECT_DIR$/Datatable CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatables2.js" />
+    <entry file="file://$PROJECT_DIR$/Datatables11.js" />
+    <entry file="file://$PROJECT_DIR$/sd.html" />
+    <entry file="file://$PROJECT_DIR$/Datatables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="7486" column="1" lean-forward="false" selection-start-line="7486" selection-start-column="1" selection-end-line="7486" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
