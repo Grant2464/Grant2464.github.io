@@ -7619,8 +7619,9 @@ $("div.HBarHide").show();
 
 
     $(document).on( 'input', '#InTwo', function () {
+      var val =$(this).val() + ".";
     document.getElementById("OutTwo").value = $(this).val();
-        table.column( 5 ) .search( $(this).val(), "." ).draw();
+        table.column( 5 ) .search(val ).draw();
 
     });
     $('ul').on( 'click', 'a.Clear', function () {
