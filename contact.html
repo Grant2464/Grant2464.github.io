@@ -17,6 +17,12 @@
 
     <h>If you have any suggestions or have found an error or a bug, please fill out the form below and then click "Send" to send</h>
       <style>
+	        .input {
+            width: 130px;
+            padding: 8px 15px;
+            background: #EAEAEA;
+            border: 0px solid #dbdbdb;
+        }
           .Titles{
  display: inline;
 }
@@ -31,7 +37,7 @@
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
 	<input type='hidden' name='redirect_to'value='http://magcop.com/contact.html'  />
  <br>
-	<textarea   placeholder = "Type your suggestion, bug, or error here..." type='text' rows="4" cols="50" name='Text'></textarea>
+	<textarea   placeholder = "Type your suggestion, bug, or error here..." type='text' rows="4" cols="50" name='Text' class="input"></textarea>
 
   <input type='submit' value='Send' />
 </form>
