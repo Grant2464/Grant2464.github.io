@@ -15,7 +15,7 @@
     <script src="http://cdn.datatables.net/plug-ins/1.10.13/api/fnFilterClear.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src='http://d33wubrfki0l68.cloudfront.net/bundles/675a589166b4538e5feb44eb138883dd68aab152.js'></script>
-    <h> CHOOCHOO</h>
+    <h> HEYYYYYYYYYYY</h>
       <style>
           .Titles{
  display: inline;
@@ -28,15 +28,15 @@
 
 <body>
 <?php
-// the message
-$msg = "First line of text\nSecond line of text";
+$to      = 'pauker2464@gmail.com';
+$subject = 'the subject';
+$message = 'hello';
+$headers = 'From: webmaster@example.com' . "\r\n" .
+    'Reply-To: webmaster@example.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
 
-// use wordwrap() if lines are longer than 70 characters
-$msg = wordwrap($msg,70);
-
-// send email
-mail("pauker2464@gmail.com","My subject",$msg);
-?>
+mail($to, $subject, $message, $headers);
+?> 
 </body>
 
 </html>
