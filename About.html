@@ -15,7 +15,7 @@
     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src='http://d33wubrfki0l68.cloudfront.net/bundles/675a589166b4538e5feb44eb138883dd68aab152.js'></script>
     <h>If you have any suggestions or have found a bug, please email me with button below</h>
-    <h> NOOOOOOT HEYYYYY</h>
+    <h> DOOOOOOOOOOOOOOOOOOOOG</h>
       <button onClick="dog()">Email Me</button>
       <style>
           .Titles{
@@ -24,6 +24,27 @@
     </style>
 
 <script>
+
+  if (!empty($_REQUEST['redmapleacer']) || !empty($_REQUEST['chinesepistache']) || !empty($_REQUEST['raywoodash'])) {
+  $check1 = $_REQUEST['redmapleacer'];
+  if (empty($check1)){$check1 = 'Unchecked';}else{$check1 = 'Checked';}
+  $check2 = $_REQUEST['chinesepistache'];
+  if (empty($check2)){$check2 = 'Unchecked';}else{$check2 = 'Checked';}
+  $check3 = $_REQUEST['raywoodash'];
+  if (empty($check3)){$check3 = 'Unchecked';}else{$check3 = 'Checked';}
+  } else {$errors[] = 'You forgot to enter your Phone number.';}
+  }
+  //End of validation 
+  function dog(){
+    window.open('mailto:seawindmensgymnastics@gmail.com')
+  }
+</script>
+
+
+</head>
+
+<body>
+
    <?php 
 if (isset($_REQUEST['submitted'])) {
 // Initialize error array.
@@ -52,27 +73,6 @@ if (isset($_REQUEST['submitted'])) {
   else{ $errors[] = 'Your Phone number can only be numbers.';}
   } else {$errors[] = 'You forgot to enter your Phone number.';}
   
-  if (!empty($_REQUEST['redmapleacer']) || !empty($_REQUEST['chinesepistache']) || !empty($_REQUEST['raywoodash'])) {
-  $check1 = $_REQUEST['redmapleacer'];
-  if (empty($check1)){$check1 = 'Unchecked';}else{$check1 = 'Checked';}
-  $check2 = $_REQUEST['chinesepistache'];
-  if (empty($check2)){$check2 = 'Unchecked';}else{$check2 = 'Checked';}
-  $check3 = $_REQUEST['raywoodash'];
-  if (empty($check3)){$check3 = 'Unchecked';}else{$check3 = 'Checked';}
-  } else {$errors[] = 'You forgot to enter your Phone number.';}
-  }
-  //End of validation 
-  function dog(){
-    window.open('mailto:seawindmensgymnastics@gmail.com')
-  }
-</script>
-
-
-</head>
-
-<body>
-
-
 
 </body>
 
