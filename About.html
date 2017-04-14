@@ -25,15 +25,7 @@
 
 <script>
 
-  if (!empty($_REQUEST['redmapleacer']) || !empty($_REQUEST['chinesepistache']) || !empty($_REQUEST['raywoodash'])) {
-  $check1 = $_REQUEST['redmapleacer'];
-  if (empty($check1)){$check1 = 'Unchecked';}else{$check1 = 'Checked';}
-  $check2 = $_REQUEST['chinesepistache'];
-  if (empty($check2)){$check2 = 'Unchecked';}else{$check2 = 'Checked';}
-  $check3 = $_REQUEST['raywoodash'];
-  if (empty($check3)){$check3 = 'Unchecked';}else{$check3 = 'Checked';}
-  } else {$errors[] = 'You forgot to enter your Phone number.';}
-  }
+
   //End of validation 
   function dog(){
     window.open('mailto:seawindmensgymnastics@gmail.com')
@@ -44,8 +36,7 @@
 </head>
 
 <body>
-
-   <?php 
+<?php 
 if (isset($_REQUEST['submitted'])) {
 // Initialize error array.
   $errors = array();
@@ -73,6 +64,16 @@ if (isset($_REQUEST['submitted'])) {
   else{ $errors[] = 'Your Phone number can only be numbers.';}
   } else {$errors[] = 'You forgot to enter your Phone number.';}
   
+  if (!empty($_REQUEST['redmapleacer']) || !empty($_REQUEST['chinesepistache']) || !empty($_REQUEST['raywoodash'])) {
+  $check1 = $_REQUEST['redmapleacer'];
+  if (empty($check1)){$check1 = 'Unchecked';}else{$check1 = 'Checked';}
+  $check2 = $_REQUEST['chinesepistache'];
+  if (empty($check2)){$check2 = 'Unchecked';}else{$check2 = 'Checked';}
+  $check3 = $_REQUEST['raywoodash'];
+  if (empty($check3)){$check3 = 'Unchecked';}else{$check3 = 'Checked';}
+  } else {$errors[] = 'You forgot to enter your Phone number.';}
+  }
+  //End of validation 
 
 </body>
 
