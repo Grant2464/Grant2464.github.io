@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 210 210" enable-background="new 0 0 210 210" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright (c) M&#xE5;rten Nettelbladt, 2006. All rights reserved. -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Miso-Light" units-per-em="1000" underline-position="0" underline-thickness="36"/>
+<missing-glyph horiz-adv-x="192"/>
+<glyph unicode="C" horiz-adv-x="385" d="M172,13C233,-3 297,24 328,78C334,88 331,99 321,105C312,110 300,107 295,98C272,58 226,39 182,51C138,62 107,102 107,148l0,340C107,533 138,574 182,585C226,597 272,578 295,538C300,529 312,526 321,531C331,537 334,548 328,558C297,612 233,639 172,622C111,606 69,551 69,488l0,-340C69,85 111,30 172,13z"/>
+<glyph unicode="P" horiz-adv-x="400" d="M81,604l0,-576C81,17 89,9 100,9C111,9 119,17 119,28l0,261l101,0C297,289 359,351 359,428l0,56C359,561 297,623 220,623l-120,0C89,623 81,615 81,604M321,484l0,-56C321,372 276,327 220,327l-101,0l0,258l101,0C276,585 321,540 321,484z"/>
+<glyph unicode="o" horiz-adv-x="376" d="M188,10C253,10 306,63 306,128l0,200C306,393 253,446 188,446C123,446 70,393 70,328l0,-200C70,63 123,10 188,10M188,410C233,410 270,373 270,328l0,-200C270,83 233,46 188,46C143,46 106,83 106,128l0,200C106,373 143,410 188,410z"/>
+</font>
+
+	<text transform="matrix(1 0 0 1 -15.3618 200.8336)" font-family="'Miso-Light'" font-size="300">CP</text>
+<text transform="matrix(1 0 0 1 15.3616 154.7588)" font-family="'Miso-Light'" font-size="210">o</text>
+</svg>
