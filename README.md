@@ -1,0 +1,2 @@
+A website for searching the MAG Code of Points. 
+The Code of Points is the property of the FIG. Translation and copying are prohibited without prior written approval by FIG. In case any statement contained herein is in conflict with the Technical Regulations, the Technical Regulations shall take precedence. Where there is a difference among the languages, the English text shall be considered correct.
